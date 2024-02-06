@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.website.testing.StoreLocatorTest"/>
+      <class name="com.website.testing.IdentityTest"/>
+      <class name="com.website.testing.BupaIdentityTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
