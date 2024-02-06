@@ -5,6 +5,7 @@
       <class name="com.website.testing.StoreLocatorTest"/>
       <class name="com.website.testing.IdentityTest"/>
       <class name="com.website.testing.BupaIdentityTest"/>
+      <class name="com.website.testing.BookingWebsite"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
