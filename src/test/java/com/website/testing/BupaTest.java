@@ -26,7 +26,7 @@ public class BupaTest {
 
 
     @Test(priority = 0, description="Successfully redirection to login url")
-    public void makeAClaimSuccessfulRedirection() throws InterruptedException {
+    public void makeAClaimSuccessfulRedirection() {
     	driver.get("https://www.bupa.com.au/");
     	WebElement link = driver.findElement(By.linkText("Make a claim"));
     	
